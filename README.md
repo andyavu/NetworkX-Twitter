@@ -9,4 +9,4 @@ Uses NetworkX library to analyze a twitter dataset
   
  2. Triad Census
      - *Analyzing Social Networks* By Stephen P Borgatti, Martin G Everett, Jeffrey C Johnson
-     - Reads twitter dataset and conducts triadic census and provides the results in the report
+     - Reads twitter dataset and conducts triadic census and provides the results
